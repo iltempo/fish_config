@@ -1,6 +1,3 @@
-# brew settings
-set -x PATH /usr/local/bin $PATH
-
 # rbenv initialization
 set PATH $HOME/.rbenv/bin $PATH
 . (rbenv init -|psub)
