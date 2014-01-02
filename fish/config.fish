@@ -17,3 +17,5 @@ function fish_prompt
 
   set_color normal
 end
+
+alias g git
