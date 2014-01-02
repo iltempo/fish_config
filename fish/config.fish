@@ -19,3 +19,5 @@ function fish_prompt
 end
 
 alias g git
+
+set -x EDITOR vim
